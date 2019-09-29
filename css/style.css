@@ -1,0 +1,103 @@
+.mt-8 {
+	margin-top: 8px;
+}
+
+.bg-color {
+	background: #006f9e
+}
+
+.border-top-theme-333-3px {
+	border-top: 3px solid #00496b
+}
+
+.btn-333-colored {
+	color: #fff;
+	background-color: #00496b;
+	border-color: #00496b;
+}
+
+.icon-color {
+	color: #fff;
+	background-color: #013c4c;
+	border-color: #0092bb;
+}
+
+.bg-img {
+	background: #dbf2fb
+}
+
+.menuzord {
+	background: #dbf2fb
+}
+
+.list-inline li a {
+	letter-spacing: 1.5px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+}
+
+.list-inline ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+.btn {
+	letter-spacing: 1.5px;
+}
+
+.section-content p {
+	color: #111;
+	font-size: 14.5px;
+	letter-spacing: 1px;
+	line-height: 27px;
+	font-weight: 500;
+	text-align: justify
+}
+
+.section-content h3 {
+	letter-spacing: 1px;
+}
+
+.bg-color-light {
+	background-color: #dbf2fb;
+	background-image: url("../../www.transparenttextures.com/patterns/concrete-wall.png");
+	
+}
+
+.service-block {
+	background: #fff;
+	border: 1px solid #ccc;
+	box-shadow: 0 1px 5px #999;
+	border-radius: 4px;
+}
+
+.bg-theme-img {
+	background-color: #006f9e;
+	background-image: url("../../www.transparenttextures.com/patterns/gplay.png");
+
+}
+
+.media-body p {
+	font-size: 14.5px;
+	letter-spacing: 1px;
+	line-height: 27px;
+	font-weight: 600
+}
+
+.section-title p {
+	font-size: 14.5px;
+	letter-spacing: 1px;
+	line-height: 27px;
+	font-weight: 500;
+	color: #111;
+}
+.service-block p{
+	font-size: 13.5px;
+	letter-spacing: 1px;
+	line-height: 27px;
+	font-weight: 500;
+	color: #111;
+	text-align: center;
+	padding: 1px 10px;
+}
